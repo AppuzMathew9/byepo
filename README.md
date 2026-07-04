@@ -16,7 +16,7 @@ A multi-tenant feature flag management application built as a technical assignme
 ## 2. Directory Structure
 
 
-byepo-feature-flags/
+| byepo-feature-flags/
 ├── server/
 │   ├── app.ts                 # Express configuration, global middleware, & route mounting
 │   ├── server.ts              # HTTP server start, database connection, & dev/prod asset serving
@@ -128,10 +128,12 @@ The application is available at: **http://localhost:5000**
 ## 7. Screenshots
 
 *(Screenshots can be added here to demonstrate the Landing Page, Super Admin Dashboard, Org Admin Dashboard, and User Flag Check Interface.)*
-__
-<img width="680" height="768" alt="Screenshot 2026-07-04 231607" src="https://github.com/user-attachments/assets/fefe2ad9-95c6-472f-980a-4a838822551d" />
-<img width="680" height="768" alt="Screenshot 2026-07-04 231737" src="https://github.com/user-attachments/assets/16aab285-d694-42b8-af0f-3b957ed95dbb" />
-<img width="680" height="768" alt="Screenshot 2026-07-04 231618" src="https://github.com/user-attachments/assets/7171a0a4-9d07-46da-b840-a843ede278bf" />
-<img width="680" height="768" alt="Screenshot 2026-07-04 231751" src="https://github.com/user-attachments/assets/5f1a9694-2f9b-4615-b800-2993855a6066" />
+
+<img width="680" height="647" alt="Screenshot 2026-07-04 231607" src="https://github.com/user-attachments/assets/ed2804a6-40d7-4005-aa1d-e146907c91f3" />
+<img width="680" height="640" alt="Screenshot 2026-07-04 231737" src="https://github.com/user-attachments/assets/d8a5854e-7f59-47f2-bb97-f95918cc557e" />
+<img width="680" height="647" alt="Screenshot 2026-07-04 231751" src="https://github.com/user-attachments/assets/ab593b4a-436f-44cc-a5a3-21a27f9bfe8c" />
+<img width="680" height="651" alt="Screenshot 2026-07-04 231618" src="https://github.com/user-attachments/assets/0cc89a33-c345-4e9f-8a0c-f4aa358654a4" />
+
+
 
 
