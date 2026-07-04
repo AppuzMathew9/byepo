@@ -15,7 +15,7 @@ A multi-tenant feature flag management application built as a technical assignme
 
 ## 2. Directory Structure
 
-\`\`\`
+
 byepo-feature-flags/
 ├── server/
 │   ├── app.ts                 # Express configuration, global middleware, & route mounting
@@ -43,7 +43,7 @@ byepo-feature-flags/
 ├── shared/                    # Shared types & constants
 └── drizzle/
     └── schema.ts              # Single source of truth for the database schema
-\`\`\`
+
 
 ---
 
